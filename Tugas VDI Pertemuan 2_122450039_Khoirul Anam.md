@@ -9,6 +9,7 @@ Bad Visualizations
     Akurasi: Menyesatkan karena perspektif 3D dapat mendistorsi ukuran sebenarnya dari bar.
     Relevansi: Tidak relevan karena tidak menambah informasi tambahan.
     Efisiensi: Tidak efisien karena memerlukan lebih banyak waktu untuk memahami data dibandingkan dengan 2D bar chart2.
+
 Good Visualizations
   1. Line Chart for Time Series Data
     Kejelasan: Jelas menunjukkan tren data dari waktu ke waktu.
